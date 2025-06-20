@@ -1,5 +1,5 @@
 # audio
-fix to audio android 16
+fix to audio android 16:
 
 rm -rf hardware/qcom-caf/sm8250/audio
 
